@@ -1,6 +1,7 @@
 Project Student Finance hasil diskusi dari kelompok Tangga Tua yang beranggotakan 
 1. Mutiara Yuni (251401016)
 2. Anasti Fitri Ramadhani (251401064)
+   
 StudentFinance merupakan program berbasis bahasa Pascal yang kami rancang untuk membantu mahasiswa dalam
 mengelola keuangan harian. Program ini menyediakan fitur pencatatan transaksi pemasukan dan pengeluaran beserta
 deskripsinya, sehingga data keuangan dapat tersusun secara rapi dan terstruktur. Selain itu, program secara
