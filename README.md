@@ -10,5 +10,6 @@ mengatur keuangan secara lebih terkontrol dan bertanggung jawab.
 
 Link Drive untuk mengakses Dokumentasi kami:
 https://drive.google.com/drive/folders/1lZnNAzTRx6Poaoi0YJc-zxC7dLcVwVfk
+
 Link Youtube penjelasan Proyek kami:
 https://youtu.be/Dp7m45xm6Rk?si=MMcXCh6qytl8pZSU 
